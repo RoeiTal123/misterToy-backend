@@ -41,7 +41,6 @@ function remove(toyId) {
 }
 
 function save(toy) {
-    console.log(toy)
     if (toy._id) {
         const toyToUpdate = toys.find(currToy => currToy._id === toy._id)
         // if (toyToUpdate.owner._id !== loggedinUser._id) return Promise.reject('Not your toy')
