@@ -28,15 +28,5 @@
         "inStock": false,
         "createdAt": "3",
         "_id": "2"
-    },
-    {
-        "name": "toy name",
-        "price": 1,
-        "labels": [
-            "new"
-        ],
-        "inStock": false,
-        "createdAt": 1695291705160,
-        "_id": "DAbuA"
     }
 ]

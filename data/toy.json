@@ -3,7 +3,8 @@
         "name": "bread jays",
         "price": 200,
         "labels": [
-            "bready","comfortable"
+            "bready",
+            "comfortable"
         ],
         "inStock": false,
         "createdAt": "9283",
@@ -13,7 +14,9 @@
         "name": "breadBot",
         "price": 5,
         "labels": [
-            "bready","fun"
+            "bread",
+            "bready",
+            "comfortable"
         ],
         "inStock": true,
         "createdAt": "1234124",
@@ -23,20 +26,11 @@
         "name": "bread glasses",
         "price": 25,
         "labels": [
-            "bready","sight assisting"
+            "bready",
+            "sight assisting"
         ],
         "inStock": false,
         "createdAt": "3",
         "_id": "2"
-    },
-    {
-        "name": "toy name",
-        "price": 1,
-        "labels": [
-            "new"
-        ],
-        "inStock": false,
-        "createdAt": 1695291705160,
-        "_id": "DAbuA"
     }
 ]
