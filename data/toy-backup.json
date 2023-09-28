@@ -6,8 +6,7 @@
             "bready","comfortable"
         ],
         "inStock": false,
-        "createdAt": "9283",
-        "_id": "1"
+        "createdAt": "9283"
     },
     {
         "name": "breadBot",
@@ -16,8 +15,7 @@
             "bready","fun"
         ],
         "inStock": true,
-        "createdAt": "1234124",
-        "_id": "3"
+        "createdAt": "1234124"
     },
     {
         "name": "bread glasses",
@@ -26,7 +24,6 @@
             "bready","sight assisting"
         ],
         "inStock": false,
-        "createdAt": "3",
-        "_id": "2"
+        "createdAt": "3"
     }
 ]

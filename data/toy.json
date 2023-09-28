@@ -46,13 +46,13 @@
     },
     {
         "name": "toy name",
-        "price": 1,
+        "price": 3,
         "labels": [
             "new"
         ],
-        "inStock": false,
-        "createdAt": 1695743757425,
-        "_id": "u5eOz"
+        "inStock": true,
+        "createdAt": 1695899525220,
+        "_id": "amOht"
     },
     {
         "name": "toy name",
@@ -61,7 +61,18 @@
             "new"
         ],
         "inStock": false,
-        "createdAt": 1695743758264,
-        "_id": "Lye29"
+        "createdAt": 1695899788418,
+        "_id": "UH255"
+    },
+    {
+        "name": "toy nameק",
+        "price": 2,
+        "labels": [
+            "new",
+            "bread"
+        ],
+        "inStock": true,
+        "createdAt": 1695902051541,
+        "_id": "5Z11W"
     }
 ]
